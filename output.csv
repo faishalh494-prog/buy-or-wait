@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_28,289.58,affordable_later,wait,2024-08-15:1302.40,2024-08-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_29,51524,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_30,273.94,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_31,2691537.96,affordable_later,wait,2024-11-15:18164000,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_32,13414.66,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_33,30819.11,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_34,74795.27,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_35,22553.18,affordable_later,wait,2026-01-15:212000,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_36,586.83,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_37,4375459.64,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_38,171.47,affordable_later,wait,2025-10-15:971.30,2025-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_39,57160.73,affordable_later,wait,2026-06-15:208600,2026-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_40,355.74,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_41,7805077.46,affordable_later,wait,2026-01-15:38760000,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_43,8246339.26,affordable_later,wait,2024-11-15:43339000,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_44,30368.28,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_45,3308764.82,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_46,35127.71,affordable_with_plan,partial_payment,2024-12-03:35127.71|2024-12-15:14322.29,2024-12-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_47,1270650.09,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,The full payment passes the 90-day minimum-balance forecast.
+request_49,12738386.83,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-04-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_51,2092271.94,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_52,19339.22,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_53,464.04,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_54,2106.43,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_55,115203.84,not_affordable,not_recommended,none,2026-08-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_56,636.37,affordable_with_plan,partial_payment,2025-02-03:636.37|2025-02-15:245.19,2025-02-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_57,12887.27,affordable_later,wait,2026-06-15:61446,2026-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_60,116.66,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_63,37434.40,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_64,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_65,5872.95,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_67,301.07,affordable_later,wait,2024-11-15:2094,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_68,1449.88,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-02-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_69,529.10,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_70,50829.89,affordable_later,wait,2025-02-15:243900,2025-02-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_71,233416.76,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,The full payment passes the 90-day minimum-balance forecast.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_75,13479.34,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_76,318.58,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_77,59957.68,not_affordable,not_recommended,none,2025-11-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_78,45878.17,not_affordable,not_recommended,none,2025-10-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_79,313.73,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_80,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_82,312.24,affordable_later,wait,2025-02-15:1405.20,2025-02-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_83,7383.20,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_84,21355.31,affordable_later,wait,2026-06-15:95400,2026-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_85,400375.09,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_87,17197.87,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_88,10735.77,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_89,9389283.81,not_affordable,not_recommended,none,2026-01-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_91,313.23,affordable_later,wait,2024-11-15:1927.20,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_95,35274.42,not_affordable,not_recommended,none,2025-06-23,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_96,72623.33,not_affordable,not_recommended,none,2026-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_97,1522.53,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_98,6536.43,affordable_later,wait,2025-10-15:27148,2025-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_99,17311.25,affordable_with_plan,full_payment,2026-07-04:18062,2026-07-15,reduce_to:event_9232:1065.90,The full payment passes the 90-day minimum-balance forecast.
+request_100,25209.38,not_affordable,not_recommended,none,2024-07-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_103,2135.73,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_104,7184.58,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_105,50980.78,affordable_with_plan,full_payment,2026-06-08:53500,2026-06-15,reduce_to:event_9720:1632|reduce_to:event_9721:1720,The full payment passes the 90-day minimum-balance forecast.
+request_106,459.28,affordable_later,wait,2025-02-15:2207.70,2025-02-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_107,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_108,1683.48,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_109,475.57,not_affordable,not_recommended,none,2024-05-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_110,18036.87,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_112,271.70,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_113,19212.24,affordable_later,wait,2026-10-15:36500,2026-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_114,54565.01,not_affordable,not_recommended,none,2026-01-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_115,14739.56,affordable_later,wait,2024-11-15:80500,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_116,9403.12,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_117,856.86,affordable_with_plan,full_payment,2026-07-05:880,2026-07-15,reduce_to:event_10833:11|reduce_to:event_10878:20.50,The full payment passes the 90-day minimum-balance forecast.
+request_118,649.60,not_affordable,not_recommended,none,2025-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_119,59412.99,not_affordable,not_recommended,none,2025-06-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_123,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_124,1397.11,not_affordable,not_recommended,none,2024-07-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_125,5808.65,not_affordable,not_recommended,none,2025-11-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_127,7426.47,affordable_later,wait,2024-10-15:23980,2024-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_129,114.11,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_130,370.05,affordable_later,wait,2025-02-15:1978.80,2025-02-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_131,1352.83,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_132,263.84,affordable_later,wait,2026-01-15:379.86,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_133,15770000,not_affordable,not_recommended,none,2024-03-07,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_134,4499935.60,affordable_later,wait,2025-10-15:21831000,2025-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_135,284.87,affordable_with_plan,full_payment,2026-07-06:304.80,2026-07-15,stop:event_12413,The full payment passes the 90-day minimum-balance forecast.
+request_136,523.50,affordable_with_plan,full_payment,2024-06-03:560.40,2024-06-15,reduce_to:event_12498:27.20,The full payment passes the 90-day minimum-balance forecast.
+request_137,26012.01,affordable_later,wait,2026-01-15:80100,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_138,756.66,affordable_with_plan,partial_payment,2026-04-07:756.66|2026-04-15:500.28,2026-04-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_139,1244.40,not_affordable,not_recommended,none,2024-11-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_140,1428.80,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_141,18303.61,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_143,2494.26,affordable_later,wait,2025-07-15:12584,2025-07-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_145,27715.98,not_affordable,not_recommended,none,2024-05-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_146,16090.83,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_147,478.46,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_148,7142.67,not_affordable,not_recommended,none,2024-08-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_149,22459.06,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_150,257.14,not_affordable,not_recommended,none,2026-03-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_152,11113.52,not_affordable,not_recommended,none,2025-04-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_153,16.21,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_155,112500,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_156,8543.67,affordable_later,wait,2026-06-15:43076,2026-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_157,4748076.90,affordable_later,wait,2024-04-15:23503000,2024-04-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_160,569.52,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_161,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_162,1202612.47,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_163,8805945.74,not_affordable,not_recommended,none,2024-11-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_165,68603.92,affordable_with_plan,full_payment,2026-04-06:80600,,stop:event_15135|reduce_to:event_15173:1875,The full payment passes the 90-day minimum-balance forecast.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_168,30477.04,affordable_with_plan,partial_payment,2026-01-07:30477.04|2026-02-15:18902.96,2026-02-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_170,29805925.86,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-09-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_171,32.44,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_172,9063.66,affordable_with_plan,partial_payment,2024-06-05:9063.66|2024-06-15:1136.34,2024-06-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_173,55344.53,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,2026-01-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_174,1070.39,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_176,33.24,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_177,1017.60,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_178,2938.10,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_179,6522843.54,affordable_later,wait,2025-07-15:41648000,2025-07-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_181,288.35,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_183,22991789.72,not_affordable,not_recommended,none,2026-05-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_184,7129.29,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_185,310.03,affordable_later,wait,2026-01-15:1257.30,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_186,4150.21,affordable_later,wait,2026-03-15:26554,2026-03-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_187,37649.24,affordable_later,wait,2024-11-15:187500,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_188,102.94,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_190,470.64,affordable_later,wait,2025-02-15:2557.50,2025-02-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_192,105.06,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_193,33.36,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_194,39106.32,affordable_later,wait,2025-08-15:132800,2025-08-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_195,965.46,not_affordable,not_recommended,none,2026-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_197,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_203,1442.10,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_204,576.04,affordable_with_plan,full_payment,2026-01-04:588.74,2026-01-15,stop:event_18761,The full payment passes the 90-day minimum-balance forecast.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_206,1404.70,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_207,4544.10,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_208,3029678.24,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_209,1613.56,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_210,827.45,affordable_with_plan,partial_payment,2026-04-06:827.45|2026-04-15:532.57,2026-04-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_211,256.22,affordable_later,wait,2024-11-15:1788.60,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_212,5520474.64,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_213,3362.40,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_214,40772.13,affordable_with_plan,partial_payment,2024-12-04:40772.13|2024-12-15:28977.87,2024-12-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_216,480.35,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_217,19556.66,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_218,24540055.07,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_219,709.31,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_220,74.89,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_222,31688.30,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_224,10076148.83,affordable_with_plan,partial_payment,2025-02-04:10076148.83|2025-02-15:250851.17,2025-02-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_225,9579671.49,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_227,7352.28,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_228,1601201.62,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_229,439.82,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_230,3537.60,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_231,30849.44,not_affordable,not_recommended,none,2026-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_232,631.06,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_233,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_234,183.60,affordable_later,wait,2026-09-15:1213.30,2026-09-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_236,5857052.34,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_238,663.60,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_240,13746.71,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_242,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,The full payment passes the 90-day minimum-balance forecast.
+request_245,23869.37,affordable_later,wait,2026-01-15:128500,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_248,389.51,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_249,127,affordable_later,wait,2026-03-15:643.20,2026-03-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_250,15496.91,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_251,1381.34,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_252,4024537.06,affordable_later,wait,2026-09-15:28082000,2026-09-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_253,1371.76,affordable_with_plan,installments,2024-03-21:984.60|2024-04-21:984.60|2024-05-22:984.60,2024-05-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_254,637.41,affordable_later,wait,2025-10-15:3535.20,2025-10-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_255,902310.14,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_256,152348.79,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-07-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_257,319.92,affordable_later,wait,2026-01-15:1352.40,2026-01-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,The full payment passes the 90-day minimum-balance forecast.
+request_259,213.08,affordable_later,wait,2024-11-15:935,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_260,6388464.90,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,The full payment passes the 90-day minimum-balance forecast.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,The full payment passes the 90-day minimum-balance forecast.
+request_263,5811.87,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_264,23456.50,affordable_later,wait,2026-06-15:111300,2026-06-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,The full payment passes the 90-day minimum-balance forecast.
+request_266,770.33,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-09-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_267,1635.37,not_affordable,not_recommended,none,2026-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_268,1041.50,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_269,0,not_affordable,not_recommended,none,,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_270,97.39,not_affordable,not_recommended,none,2026-09-20,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_271,13815.59,affordable_later,wait,2024-11-15:91300,2024-11-15,none,Waiting until the projected safe full-payment date preserves the minimum balance.
+request_272,5397064.07,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-15,none,The supplied installment schedule passes the 90-day minimum-balance forecast.
+request_273,9554022.27,affordable_with_plan,partial_payment,2026-04-07:9554022.27|2026-04-15:6306977.73,2026-04-15,none,The two permitted payments pass the 90-day minimum-balance forecast.
+request_274,2125.27,not_affordable,not_recommended,none,2025-02-15,none,No eligible payment plan is safe within the 90-day forecast and completion date.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,The full payment passes the 90-day minimum-balance forecast.
